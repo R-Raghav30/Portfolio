@@ -34,7 +34,7 @@ const Footer = () => {
             >
               {item.name}
             </button>
-          ))} */}        <h2 className="text-xl font-semibold text-purple-500">raghavramakrishna30@gmail.com</h2>
+          ))} */}        <h2 className="text-sm font-semibold text-purple-500">raghavramakrishna30@gmail.com</h2>
 
         </nav>
 
