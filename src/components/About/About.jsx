@@ -36,7 +36,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am Raghav R, a passionate Computer Science student with a strong interest in technology and innovation. I enjoy learning new concepts and applying them to solve real-world challenges. My academic journey has shaped me to think critically and work effectively in collaborative environments. Driven by curiosity, dedication, and a constant desire for self-improvement, my goal is to grow as a professional while contributing meaningfully to the tech industry.
+            I am Raghav R, a Computer Science student with a strong interest in technology and innovation. I enjoy learning new concepts and applying them to solve real-world challenges while continuously improving myself. My goal is to grow as a professional and contribute meaningfully to the tech industry.
           </p>
           {/* Resume Button */}
           <a
